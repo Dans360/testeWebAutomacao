@@ -8,7 +8,7 @@ Um projeto completo usando cucumber, capybara, siteprism e ruby para servir de e
 De um git clone no projeto
 
 ```
-clone 
+https://github.com/Dans360/testeWebAutomacao.git
 ```
 
 ## 2-Passo:
