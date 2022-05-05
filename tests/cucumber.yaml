@@ -1,0 +1,5 @@
+---
+default: -p html -p bdd 
+html: --format html --out=reports/features.html # gerar um formulário html 
+dot: --format progress  # para mostra no terminal o progresso dos testes, e não deixar o terminal sem informação
+bdd: --format pretty  # mostrar os cenarios e steps no terminal
